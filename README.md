@@ -47,7 +47,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
   </a>
   <a href="https://www.java.com/en/" target="_blank">
-    <img src="https://assets.stickpng.com/images/58480979cef1014c0b5e4901.png" alt="Java" width="40" height="60" />
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" alt="Java" width="40" height="50" />
   </a>
   <a href="#" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML5" width="40" height="40" />
