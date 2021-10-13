@@ -18,7 +18,7 @@
 
 - 💬 Ask me about *Smart Contracts*.
 
-- ⚡ Fun fact *In a tense situation I feel an insanely powerful urge to laugh*
+- ⚡ Fun fact *In a tense situation I feel an insanely powerful urge to laugh.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
