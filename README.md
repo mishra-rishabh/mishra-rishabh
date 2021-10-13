@@ -11,7 +11,8 @@
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mishra-rishabh&label=Profile%20views&color=0e75b6&style=flat" alt="mishra-rishabh" />
   </p>
-</a> - 🌱 I’m currently working in *BlockChain Technology*. - 🌱 I’m currently learning *Solidity(Smart Contract Language)*. - 👯 I’m looking to collaborate on *Blockchain Projects*. - 💬 Ask me about *Smart Contracts*. - ⚡ Fun fact *In a tense situation I feel an insanely powerful urge to laugh.* <h3 align="left">Connect with me:</h3>
+</a>🌱 I’m currently working in <b>Blockchain Technology.</b>
+<br />🌱 I’m currently learning <b>Solidity(Smart Contract Language)</b>. <br />👯 I’m looking to collaborate on <b>Blockchain Projects</b>. <br />💬 Ask me about <b>Smart Contracts</b>. <br />⚡ Fun fact <b>In a tense situation I feel an insanely powerful urge to laugh.</b><h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rishabh-mishra-902342118/" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn - Rishabh Mishra" height="40" width="40" />
