@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="50%" height = "280px" src="https://github.com/arsentieva/arsentieva/raw/main/code.gif?raw=true"/>
+<img width="50%" height = "280px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 </div>
 <p>&nbsp;</p>
   
-<h1 align="center">Hola , I'm Harsh Vardhan Bahree <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi" style="max-width:100%;"></a></h1>
+<h1 align="center">Namaste! This is Rishabh Mishra <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"><img src="https://c.tenor.com/9I3-CRuCdIoAAAAi/%D0%B0%D0%BC%D0%B8%D0%BD%D1%8C.gif" width="28px" alt="hi" style="max-width:100%;"></a></h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 <a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhanbahree&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhanbahree" /> </p>
@@ -12,22 +12,20 @@
 
 - 🌱 I’m currently working in *BlockChain Technology*.
 
-- 🌱 I’m currently learning *Ligo(Smart Contract Language)*.
+- 🌱 I’m currently learning *Solidity(Smart Contract Language)*.
 
 - 👯 I’m looking to collaborate on *Blockchain Projects*.
 
 - 💬 Ask me about *Smart Contracts*.
 
-- ⚡ Fun fact *I spend almost 12 hours listening to songs everyday.*
+- ⚡ Fun fact *In a tense situation I feel an insanely powerful urge to laugh*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshvardhan129a8192" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/aquaticus/60%20X%2060/linkedin.png" alt="LinkedIn-Harsh Vardhan Bahree" height="40" width="40" /></a>
-  <a href="https://www.facebook.com/hbahree/" rel="nofollow">
-  <img align="center" alt="Harsh's Facebook" src="https://www.vectorico.com/wp-content/uploads/2018/02/Facebook-Logo-300x300.png" height="40" width="40"/>
-</a>
-<a href="mailto:harshvardhanbahree@gmail.com">
- <img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-500x281.png" alt="Harsh's mail" height="40" width="50" />
+<a href="https://www.linkedin.com/in/rishabh-mishra-902342118/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn - Rishabh Mishra" height="40" width="40" /></a>
+  
+<a href="mailto:mishra.96.rishabh@gmail.com">
+ <img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Rishabh's mail" height="40" width="75" />
 </a>  
 </p>
 
