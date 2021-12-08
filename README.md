@@ -6,12 +6,12 @@
     <img src="https://c.tenor.com/9I3-CRuCdIoAAAAi/%D0%B0%D0%BC%D0%B8%D0%BD%D1%8C.gif" width="28px" alt="hi" style="max-width:100%;">
   </a>
 </h1>
-<h3 align="center">A passionate Blockchain developer from India</h3>
+<h3 align="center">An avid Blockchain Developer from India</h3>
 <a>
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mishra-rishabh&label=Profile%20views&color=0e75b6&style=flat" alt="mishra-rishabh" />
   </p>
-</a>🌱 I’m currently working in <b>Blockchain Technology.</b><br /><br />
+</a>🌱 I am currently learning <b>Algorand.</b><br /><br />
 🌱 I've a sound knowledge of <b>Solidity(Smart Contract Language)</b>. <br /><br />
 👯 I’m looking to collaborate on <b>Blockchain Projects</b>. <br /><br />
 💬 Ask me about <b>Smart Contracts</b>. <br /><br />
