@@ -6,7 +6,7 @@
     <img src="https://c.tenor.com/9I3-CRuCdIoAAAAi/%D0%B0%D0%BC%D0%B8%D0%BD%D1%8C.gif" width="28px" alt="hi" style="max-width:100%;">
   </a>
 </h1>
-<h3 align="center">An avid Blockchain Developer from India</h3>
+<h3 align="center">An avid Blockchain Developer from India <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/google/313/flag-india_1f1ee-1f1f3.png" width="30px" height="30px"/></h3>
 <a>
   <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mishra-rishabh&label=Profile%20views&color=0e75b6&style=flat" alt="mishra-rishabh" />
