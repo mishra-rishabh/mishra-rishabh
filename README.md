@@ -2,7 +2,7 @@
   <img width="50%" height="280px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 </div>
 <p>&nbsp;</p>
-<h1 align="center">Namaste! This is Rishabh Mishra <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">
+<h1 align="center">Vande Mataram! This is Rishabh Mishra <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">
     <img src="https://c.tenor.com/9I3-CRuCdIoAAAAi/%D0%B0%D0%BC%D0%B8%D0%BD%D1%8C.gif" width="28px" alt="hi" style="max-width:100%;">
   </a>
 </h1>
